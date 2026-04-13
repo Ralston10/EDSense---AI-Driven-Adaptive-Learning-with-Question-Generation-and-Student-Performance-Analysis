@@ -14,20 +14,13 @@ An AI-powered adaptive learning system designed to personalize mathematics educa
 
 6) Real-Time Feedback System - Instant corrections, step-by-step solutions and Confidence-building feedback
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1d40abd0-c862-4a02-9e69-fae62c7a6b1d" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1d40abd0-c862-4a02-9e69-fae62c7a6b1d" />
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/643693b5-2734-448c-a29a-71b7e0377965" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/643693b5-2734-448c-a29a-71b7e0377965" />
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/dd98d6a9-d961-4e81-bf94-9e01db74d722" />
-
-
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/dd98d6a9-d961-4e81-bf94-9e01db74d722" />
 
 https://github.com/user-attachments/assets/8a769fa8-2361-4c58-801d-017f25d31b95
-
-
-
-
-
 
 - Core Technologies:
 Recurrent Neural Networks (LSTM)
@@ -39,17 +32,6 @@ Directed Acyclic Graphs (DAG)
 Adaptive Learning Systems
 Dynamic Question Generation
 Educational Data Mining
-
-- How It Works
-Student answers math questions
-System analyzes:
-Accuracy
-Response time
-Error patterns
-AI models predict skill level
-Difficulty is adjusted dynamically
-Personalized questions are generated
-Continuous feedback improves learning
 
 - Objectives
 1) Improve math learning for students with dyscalculia
