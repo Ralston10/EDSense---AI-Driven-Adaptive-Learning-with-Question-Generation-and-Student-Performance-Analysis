@@ -20,6 +20,8 @@ An AI-powered adaptive learning system designed to personalize mathematics educa
 
 <img width="1142" height="528" alt="image" src="https://github.com/user-attachments/assets/dd98d6a9-d961-4e81-bf94-9e01db74d722" />
 
+[![Watch Demo](./assets/demo-thumbnail.png)](https://youtu.be/nC5n9Yb--V8)
+
 
 - Core Technologies:
 Recurrent Neural Networks (LSTM)
