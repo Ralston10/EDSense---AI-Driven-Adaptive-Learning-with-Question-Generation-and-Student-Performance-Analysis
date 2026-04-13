@@ -14,11 +14,26 @@ An AI-powered adaptive learning system designed to personalize mathematics educa
 
 6) Real-Time Feedback System - Instant corrections, step-by-step solutions and Confidence-building feedback
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1d40abd0-c862-4a02-9e69-fae62c7a6b1d" />
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/643693b5-2734-448c-a29a-71b7e0377965" />
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/dd98d6a9-d961-4e81-bf94-9e01db74d722" />
+<p align="center">
+  <b>System Architecture Overview</b><br><br>
+  <img src="https://github.com/user-attachments/assets/1d40abd0-c862-4a02-9e69-fae62c7a6b1d" width="600"/>
+</p>
+
+<br>
+
+<p align="center">
+  <b>Adaptive Learning Framework</b><br><br>
+  <img src="https://github.com/user-attachments/assets/643693b5-2734-448c-a29a-71b7e0377965" width="600"/>
+</p>
+
+<br>
+
+<p align="center">
+  <b>System Workflow</b><br><br>
+  <img src="https://github.com/user-attachments/assets/dd98d6a9-d961-4e81-bf94-9e01db74d722" width="600"/>
+</p>
 
 https://github.com/user-attachments/assets/8a769fa8-2361-4c58-801d-017f25d31b95
 
